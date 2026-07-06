@@ -14,11 +14,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@chroma-core/default-embed": "^0.1.9",
+    "@google/genai": "^2.10.0",
     "chromadb": "^3.5.0",
     "cors": "latest",
     "dotenv": "latest",
     "express": "latest",
-    "openai": "latest",
     "pdf-parse": "latest"
   },
   "devDependencies": {
