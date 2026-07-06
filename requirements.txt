@@ -1,0 +1,9 @@
+Node.js
+Express
+CORS
+dotenv
+pdf-parse
+ChromaDB
+Chroma default embeddings
+Google Gemini API
+Supertest
