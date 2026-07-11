@@ -56,10 +56,10 @@ This file contains the testing results.
 
 ## `.env`: API/key holder
 CHROMA_HOST=api.trychroma.com
-CHROMA_API_KEY=your_chroma_key
-CHROMA_TENANT=your_tenant_id
+CHROMA_API_KEY=ck-3F6vcoNhh1TzM2sqr91nuok79ZL7ajHbTrPc59xKeQiC
+CHROMA_TENANT=3c93ff42-1f39-4813-afff-718e7ba265f1
 CHROMA_DATABASE=handbook-ai
-GEMINI_API_KEY=your_gemini_key
+GEMINI_API_KEY=AQ.Ab8RN6JgjqPyMqUzF8zVzZIDEcEwb15EHRK6QITwXnKK2JFFlw
 
 ## Live API
 My API is deployed on Render.
