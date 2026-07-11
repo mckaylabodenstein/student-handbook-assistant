@@ -1,7 +1,7 @@
-# Student Handbook AI Assistant
+Zaio Full-Stack AI Engineer Bootcamp Handbook
 
 ## About the Project
--This project: AI assistant that answers questions using information from a software engineering handbook.
+-This project: AI assistant that answers questions using information from a Zaio Full-Stack AI Engineer Bootcamp Handbook
 -The handbook PDF is read and split into smaller pieces of text called chunks. These chunks are stored in ChromaDB.
 -When a user asks a question, the system searches ChromaDB for information that is related to the question. The relevant information is then sent to Gemini to create an answer.
 -The assistant must only use information from the handbook.
