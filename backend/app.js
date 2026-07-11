@@ -43,7 +43,7 @@ app.post("/ask", async function (req, res) {
 
 
     const collection = await chromaClient.getCollection({
-      name: "handbook-chunks"
+      name: "zaio-bootcamp-handbook-v2"
     });
 
 

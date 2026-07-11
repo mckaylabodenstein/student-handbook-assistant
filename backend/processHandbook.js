@@ -45,7 +45,7 @@ async function processHandbook() {
 
 
     const collection = await client.getOrCreateCollection({
-      name: "handbook-chunks"
+      name: "zaio-bootcamp-handbook-v2"
     });
 
 
